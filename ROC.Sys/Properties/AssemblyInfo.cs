@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息是通过以下项进行控制的
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("ROC.Users")]
+[assembly: AssemblyTitle("ROC.Sys")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("ROC.Users")]
+[assembly: AssemblyProduct("ROC.Sys")]
 [assembly: AssemblyCopyright("版权所有(C) Microsoft 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于 typelib 的 ID
-[assembly: Guid("be11d5a9-e087-4c1a-96ff-22ceffa629cd")]
+[assembly: Guid("3519e0f4-090f-4f18-a85a-196aae2afb85")]
 
 // 程序集的版本信息由下列四个值组成:
 //

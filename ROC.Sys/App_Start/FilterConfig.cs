@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace ROC.Users
+namespace ROC.Sys
 {
     public class FilterConfig
     {

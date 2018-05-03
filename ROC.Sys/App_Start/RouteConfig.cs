@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace ROC.Users
+namespace ROC.Sys
 {
     public class RouteConfig
     {
